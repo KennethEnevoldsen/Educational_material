@@ -1,4 +1,4 @@
-# Exercise in integrals 
+# Exercise in integral approximation
 Integrals in computer science are similar but also different from the integral known from mathematics this exercise will shown you some of the similarities but also some of the differences.
 
 initially you will have to watch the following video about [approximation of the Riemann integral, i.e. area under the curve](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-2/v/simple-riemann-approximation-using-rectangles?fbclid=IwAR1KN1Rl5ohtuVJp1VPafI5uEI6R1U1gPOHKx4KcoIajiCoM9nFtCFhPusY). Don't fear the fancy word, the Riemann integral is simply the integral known from high school. If you are unfamiliar the integral from high school I recommend you stop here and reacquaint yourself with it, e.g. using [this video](https://www.youtube.com/watch?v=rfG8ce4nNh0). 
@@ -22,3 +22,6 @@ Using this code you should now be able to solve the following exercises:
 - [ ] What does dens correspond in the video?
 - [ ] What does the following do line do `dens[1]*delta_x` and what way is that similar to `dens * delta`?
 - [ ] What does the last bit of code do? (`sum(dens*delta_x)`)
+
+
+*Note: If you answer this and want it corrected, I highly encourage you to send the answers. I will then upload it here so others can find help if needed. Credits will be given.*
