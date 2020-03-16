@@ -1,7 +1,7 @@
 # Educational material
 
 ## Basic mathematics and programming
-- [Exercise in approximating integrals](link_missing)
+- [Exercise in approximating integrals](https://github.com/KennethEnevoldsen/Educational_material/blob/master/Computational_Modelling/exercises/exercise_comp_mod_approximate_riemann.md)
 - [How to organize, add and multiply matrices](https://www.youtube.com/watch?v=kqWCwwyeE6k)
 -  [Series on the essence of calculus by 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&feature=youtu.be&fbclid=IwAR3dHQnX93g5EPUyqwuSZ8gTUgVy4Gu3cDFg8C8kKAbUAOhXvZxh3vxGuvg).
 
